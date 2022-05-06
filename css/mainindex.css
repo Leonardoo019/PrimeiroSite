@@ -100,5 +100,31 @@ h1{
     color: #0078ff;
 }
 
+.man1{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
 
+pre{
+    font: normal 19px arial, Verdana, serif;
+    color: rgb(255, 255, 255);
+    margin-top: 0px;
+    text-align: left;
+    text-indent: 30px;
+}
 
+.man2{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.man3{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
