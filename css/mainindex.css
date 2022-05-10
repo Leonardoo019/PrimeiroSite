@@ -142,3 +142,64 @@ pre{
     margin-left: 150px;
     margin-top: 80px;
 }
+        .textoatleta{
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #0078ff;
+}
+.atletas1{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.LuanVilanova{
+    width: 400px;
+   margin-left: 400px;
+}
+.LeticiaBufoni{
+    margin-left: 400px;
+    width: 100px;
+}
+.KelvinHoefler{
+    margin-left: 400px;
+}
+.PedroBarros{
+    margin-left: 400px;
+}
+
+.camp1 {
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.camp2 {
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.camp3 {
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.camp4 {
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.camp5{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 80px;
+}
