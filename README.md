@@ -19,4 +19,6 @@ e falando de alguns campeonatos que existe dentro a modalidade.
  nossa maior dificuldade foi desenvolver a estrutura do site, pois nos nao conhecia nada de programação, mais com muito estudo
  nos conseguimos a desenvolver o site, vendo os slides do professor e tirando algumas duvidas com ele e alguns video no youtube.
  
+ Alterçoes: não foi utilizado a linguangem javascript
+ 
 
